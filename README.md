@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a Developer Onboarding Simulator<br>I am looking for help with ThreeJS models<br>I am currently learning about Agentic AI, Human Computer Interaction and Spanish!<br>Fun fact about me: I blog about random things from my life but no one really knows that it's me haha
+I am currently working on a Developer Onboarding Simulator<br>I am looking for help with ThreeJS models<br>I am currently learning about Agentic AI, Human Computer Interaction and Spanish!
 
 
 ## 🌐 Socials:
