@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a Developer Onboarding Simulator<br>I am looking for help with ThreeJS models<br>I am currently learning about Agentic AI, Human Computer Interaction and Spanish!
+I am currently working on a Developer Onboarding Simulator<br>I am looking for Fall 2025 or Spring 2026 internships<br>I am currently learning about Agentic AI, Human Computer Interaction and Spanish!
 
 
 ## 🌐 Socials:
